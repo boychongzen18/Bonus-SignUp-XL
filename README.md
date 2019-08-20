@@ -6,6 +6,8 @@
 
 # Syarat 1x Registrasi Paket ( 1 Kartu XL / SC ) 
 
+Link Registrasi dapetin.id
+
 # Tampilan Dapetin.id Bonus Sign-Up 2.5GB 
 ![be](https://raw.githubusercontent.com/boychongzen18/Bonus-SignUp-XL/master/dapetin.id.jpg)
 # Tampilan Cek SMS
@@ -16,7 +18,7 @@
 
 My Youtube    : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
 
-Link Tutorial : 
+Link Tutorial : https://youtu.be/NKSSqQ6JkLI
 
 
 My Website    : https://hackingforlive.wordpress.com

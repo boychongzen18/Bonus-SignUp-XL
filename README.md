@@ -6,7 +6,7 @@
 
 # Syarat 1x Registrasi Paket ( 1 Kartu XL / SC ) 
 
-Link Registrasi dapetin.id
+# Link Registrasi https://dapetin.id
 
 # Tampilan Dapetin.id Bonus Sign-Up 2.5GB 
 ![be](https://raw.githubusercontent.com/boychongzen18/Bonus-SignUp-XL/master/dapetin.id.jpg)
